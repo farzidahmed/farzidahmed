@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Backend**
-
 - 🤝 I’m looking for help with **Flutter**
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **rimonraj670@gmail.com**
+- 📫 How to reach me **farzidahmed150@gmail.com**
 
 - ⚡ Fun fact **You think it , I can develop it**
 
