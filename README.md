@@ -19,7 +19,7 @@
 
 ### 📱 Live Production Apps
 
-- **Direct Bazar** – Multi-vendor e-commerce with real-time tracking & Flutter Stripe.  
+- **Direct Bazar** – single-vendor e-commerce with real-time tracking & Flutter Stripe.  
   👉 [Play Store](https://play.google.com/store/apps/details?id=com.mydirectbazzarecommerce.app) | [App Store](https://apps.apple.com/us/app/direct-bazar/id6756918034)
 - **Iploy** – Job recruitment platform with real-time notifications & role-based auth.  
   👉 [Play Store](https://play.google.com/store/apps/details?id=com.iploy_app) | [App Store](https://apps.apple.com/us/app/iploy-app/id6756605572)
