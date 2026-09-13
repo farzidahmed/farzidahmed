@@ -25,7 +25,7 @@
   👉 [Play Store](https://play.google.com/store/apps/details?id=com.iploy_app) | [App Store](https://apps.apple.com/us/app/iploy-app/id6756605572)
 - **BreathEasy222** – Real-time health companion app.  
   👉 [Play Store](https://play.google.com/store/apps/details?id=com.breatheasy222.app)
-  - **Romeo-Reminder** – Love reminder.  
+- **Romeo-Reminder** – Love reminder.  
   👉 [App Store](https://apps.apple.com/us/app/romeo-reminder/id6758392313)
 
 ---
