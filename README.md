@@ -12,7 +12,7 @@
 - ⚡ **Performance & Optimization:** Experienced in widget rebuild profiling, memory management, and sustaining smooth 60 FPS performance.
 - 🌐 **Real-Time Systems:** Implemented live chat, Google Maps location tracking, WebSockets, Pusher, and Firebase FCM.
 - 💳 **Monetization & Payments:** Integrated Stripe Payment Gateway, RevenueCat, and In-App Subscriptions.
-- 🚀 **DevOps & Store Release:** Managing 100% deployment lifecycles, CI/CD (Fastlane), keystore signing, and store compliance.
+- 🚀 **App Publishing & Deployment:** Managing 100% store publishing lifecycles, CI/CD (Fastlane), keystore signing, and store compliance.
 
 <br clear="right" />
 
@@ -28,6 +28,9 @@
 
 - 🫁 **BreathEasy222:** Real-time health companion with subscriptions, WebSockets, and Pusher integration.  
   👉 [Play Store](https://play.google.com/store/apps/details?id=com.breatheasy222.app)
+
+- ❤️ **Romeo-Reminder:** Love reminder and relationship companion application.  
+  👉 [App Store](https://apps.apple.com/us/app/romeo-reminder/id6758392313)
 
 ---
 
@@ -82,8 +85,8 @@
       <br><sub><b>Play Console</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/fastlane/fastlane-icon.svg" width="40" height="40" alt="Fastlane" />
-      <br><sub><b>Fastlane CI/CD</b></sub>
+      <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40" height="40" alt="App Store Connect" />
+      <br><sub><b>App Store Connect</b></sub>
     </td>
   </tr>
 </table>
